@@ -629,11 +629,13 @@ nav {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  
+  picture {
+  width: inherit;
+  }
 }
 
-.hall-swiper-slide picture {
-  width: inherit;
-}
+
 
 .eye {
   position: absolute;
